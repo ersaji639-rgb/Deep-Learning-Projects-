@@ -1,0 +1,6 @@
+In this image : 
+* the location of tail indiacates the direction of skewness.
+* In this curve,  The y - axis represents total number of values we have, and The x-sxis represents the magnitud of that value. 
+* In no skewed or normal dist or Gaussian, the mean and median(middle value) are same. 
+ We need to transform it into more like normal. 
+
